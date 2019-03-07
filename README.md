@@ -31,6 +31,7 @@ registration
 ![registration](https://user-images.githubusercontent.com/43930762/53994730-b6f69500-413b-11e9-84aa-42339bd2963f.png)
 <h2> Activity list </h2>
 Activity list of user
+<br>
 ![useractivity](https://user-images.githubusercontent.com/43930762/53994777-dee5f880-413b-11e9-8191-c36f66de7239.png)
 <br> 
 Activity list of amount of training by days
