@@ -25,9 +25,11 @@ Displays a graph of a table of amount of training by days.
 
 <h2> Login And Register </h2>
 Login
+<br>
 ![login](https://user-images.githubusercontent.com/43930762/53994684-9e867a80-413b-11e9-9d5a-759563c3b0f7.png)
 <br>
 registration
+<br>
 ![registration](https://user-images.githubusercontent.com/43930762/53994730-b6f69500-413b-11e9-84aa-42339bd2963f.png)
 <h2> Activity list </h2>
 Activity list of user
