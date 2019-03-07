@@ -30,8 +30,9 @@ Displays a graph of a table of amount of training by days.
 <h3>Register<h3><br> 
 ![registration](https://user-images.githubusercontent.com/43930762/53994730-b6f69500-413b-11e9-84aa-42339bd2963f.png)
 <h2> Activity list </h2>
-<h3>Activity list of user<h3><br> 
+Activity list of user
 ![useractivity](https://user-images.githubusercontent.com/43930762/53994777-dee5f880-413b-11e9-8191-c36f66de7239.png)
+<br> 
 <h3>Activity list of amount of training by days<h3><br> 
 ![listbyday](https://user-images.githubusercontent.com/43930762/53994846-08068900-413c-11e9-89e2-3311e81a494c.png)
 <h3>Graph of a table of amount of training by days<h3><br> 
