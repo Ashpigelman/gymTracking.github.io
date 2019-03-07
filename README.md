@@ -44,4 +44,5 @@ Update user - (https://user-images.githubusercontent.com/43930762/53992852-83653
 <br>
 Update password - (https://user-images.githubusercontent.com/43930762/53992809-734d5c80-4136-11e9-9752-7c673f4053c7.png)
 <br>
+![useractivity](https://user-images.githubusercontent.com/43930762/53992939-af80bd00-4136-11e9-9305-b87316239144.png)
 Update weight and height - (https://user-images.githubusercontent.com/43930762/53992833-7b0d0100-4136-11e9-9263-98c187a23ab7.png)
