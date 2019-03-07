@@ -24,25 +24,31 @@ Display a table of amount of training by days.
 Displays a graph of a table of amount of training by days.
 
 <h2> Login And Register </h2>
-Login - (https://user-images.githubusercontent.com/43930762/53992751-4dc05300-4136-11e9-8bfe-b328fecbcd6c.png)
+<h3>Login<h3><br>
+ ![login](https://user-images.githubusercontent.com/43930762/53994684-9e867a80-413b-11e9-9d5a-759563c3b0f7.png)
 <br>
-Register - (https://user-images.githubusercontent.com/43930762/53992784-63ce1380-4136-11e9-800a-32c98fe1c204.png)
+<h3>Register<h3><br> 
+![registration](https://user-images.githubusercontent.com/43930762/53994730-b6f69500-413b-11e9-84aa-42339bd2963f.png)
 <h2> Activity list </h2>
-Activity list of user - (https://user-images.githubusercontent.com/43930762/53992939-af80bd00-4136-11e9-9305-b87316239144.png)
-<br>
-Activity list of amount of training by days -(https://user-images.githubusercontent.com/43930762/53992892-9a0b9300-4136-11e9-9f06-3d895f768007.png)
-<br>
-Graph of a table of amount of training by days -(https://user-images.githubusercontent.com/43930762/53992885-9415b200-4136-11e9-8ee9-95e56e6ab8ed.png)
+<h3>Activity list of user<h3><br> 
+![useractivity](https://user-images.githubusercontent.com/43930762/53994777-dee5f880-413b-11e9-8191-c36f66de7239.png)
+<h3>Activity list of amount of training by days<h3><br> 
+![listbyday](https://user-images.githubusercontent.com/43930762/53994846-08068900-413c-11e9-89e2-3311e81a494c.png)
+<h3>Graph of a table of amount of training by days<h3><br> 
+![graphbyday](https://user-images.githubusercontent.com/43930762/53994858-13f24b00-413c-11e9-9f52-fc9a7e5f94a6.png)
 <h2> Function on activity -  add active OR update activity</h2>
-Add active - (https://user-images.githubusercontent.com/43930762/53992921-aa237280-4136-11e9-9e7a-44798e25fe0d.png)
-<br>
-update active - (https://user-images.githubusercontent.com/43930762/53992904-a132a100-4136-11e9-9a0a-f27a1d4da89d.png)
+<h3>Add active<h3><br> 
+![addactive](https://user-images.githubusercontent.com/43930762/53994876-1f457680-413c-11e9-941c-c000c672bfe6.png)
+<h3>update active <h3><br> 
+![updateactive](https://user-images.githubusercontent.com/43930762/53994885-28364800-413c-11e9-9038-875599f56647.png)
 <h2> BMI calculator </h2>
-BMI calculator - (https://user-images.githubusercontent.com/43930762/53992873-8e1fd100-4136-11e9-98c3-2a7995be34d6.png)
+<h3>BMI calculator <h3><br> 
+![bmi](https://user-images.githubusercontent.com/43930762/53994914-3a17eb00-413c-11e9-972a-0fab7a440d93.png)
 <h2> Privacy </h2>
-Update user - (https://user-images.githubusercontent.com/43930762/53992852-83653c00-4136-11e9-973d-77112edc3e42.png)
-<br>
-Update password - (https://user-images.githubusercontent.com/43930762/53992809-734d5c80-4136-11e9-9752-7c673f4053c7.png)
-<br>
-![useractivity](https://user-images.githubusercontent.com/43930762/53992939-af80bd00-4136-11e9-9305-b87316239144.png)
-Update weight and height - (https://user-images.githubusercontent.com/43930762/53992833-7b0d0100-4136-11e9-9263-98c187a23ab7.png)
+<h3>Update user <h3><br> 
+![updateuser](https://user-images.githubusercontent.com/43930762/53994929-48fe9d80-413c-11e9-9120-14fa4b82b3f1.png)
+<h3>Update password <h3><br> 
+![updatepassword](https://user-images.githubusercontent.com/43930762/53994957-574cb980-413c-11e9-90f1-5eac5e9b53cc.png)
+<h3>Update weight and height <h3><br> 
+![updateheightandweight](https://user-images.githubusercontent.com/43930762/53994973-60d62180-413c-11e9-8d6c-5285227233ed.png)
+
