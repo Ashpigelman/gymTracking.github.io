@@ -57,9 +57,11 @@ BMI calculator
 Update user
 <br> 
 ![updateuser](https://user-images.githubusercontent.com/43930762/53994929-48fe9d80-413c-11e9-9120-14fa4b82b3f1.png)
+<br>
 Update password
 <br> 
 ![updatepassword](https://user-images.githubusercontent.com/43930762/53994957-574cb980-413c-11e9-90f1-5eac5e9b53cc.png)
+<br>
 Update weight and height
 <br> 
 ![updateheightandweight](https://user-images.githubusercontent.com/43930762/53994973-60d62180-413c-11e9-8d6c-5285227233ed.png)
