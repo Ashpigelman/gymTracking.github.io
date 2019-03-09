@@ -48,7 +48,7 @@ Add activity
 ![addActive](https://user-images.githubusercontent.com/43930762/54071710-3ccc2a80-4279-11e9-949c-9c6e7eb17c83.png)
 Update active
 <br> 
-![userActivities](https://user-images.githubusercontent.com/43930762/54071709-3c339400-4279-11e9-89ba-a7deeada1367.png)
+![updateActive](https://user-images.githubusercontent.com/43930762/54071749-dc89b880-4279-11e9-9964-837b1f2bdf2d.png)
 <h2> BMI calculator </h2>
 BMI calculator
 <br> 
