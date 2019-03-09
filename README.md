@@ -28,7 +28,7 @@ Login
 <br>
 ![login](https://user-images.githubusercontent.com/43930762/53994684-9e867a80-413b-11e9-9d5a-759563c3b0f7.png)
 <br>
-registration
+Registration
 <br>
 ![registration](https://user-images.githubusercontent.com/43930762/53994730-b6f69500-413b-11e9-84aa-42339bd2963f.png)
 <h2> Activity list </h2>
@@ -43,10 +43,10 @@ Graph of a table of amount of training by days
 <br> 
 ![graphbyday](https://user-images.githubusercontent.com/43930762/53994858-13f24b00-413c-11e9-9f52-fc9a7e5f94a6.png)
 <h2> Function on activity -  add active OR update activity</h2>
-Add active
+Add activity
 <br> 
 ![addactive](https://user-images.githubusercontent.com/43930762/53994876-1f457680-413c-11e9-941c-c000c672bfe6.png)
-update active
+Update active
 <br> 
 ![updateactive](https://user-images.githubusercontent.com/43930762/53994885-28364800-413c-11e9-9038-875599f56647.png)
 <h2> BMI calculator </h2>
