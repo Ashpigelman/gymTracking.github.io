@@ -60,7 +60,7 @@
             out.write((String)request.getAttribute("message")); %></h4>
 	<br>
 	<%-- Select options --%>
-	<a href="addActive.jsp" class="btn btn-outline-primary btn-lg btn-block" role="button" aria-pressed="true">Add New Active</a><br>
+	<a href="addActive.jsp" class="btn btn-outline-primary btn-lg btn-block" role="button" aria-pressed="true">Add New Activity</a><br>
 	<a href="userActivities.jsp" class="btn btn-outline-info btn-lg btn-block" role="button" aria-pressed="true">My Activities Table</a><br>
 	<a href="BMICalculator.jsp" class="btn btn-outline-warning btn-lg btn-block" role="button" aria-pressed="true">BMI Calculator</a><br>
 	<form action="http://localhost:8080/WebGymTracking/GymTrackingController" method="get">
