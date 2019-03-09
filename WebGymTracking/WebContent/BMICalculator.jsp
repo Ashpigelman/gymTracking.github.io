@@ -143,7 +143,7 @@
        	 		</div>
       		</li>
       		<li class="nav-item">
-        		<form action="http://localhost:8080/WebGymTracking/GymTrackingController" method="get">
+        		<form action="/WebGymTracking/GymTrackingController" method="get">
             	<input type="hidden" name="command" value="logout" >
             	<input class="btn btn-danger" type="submit" value="logout">
         		</form>
