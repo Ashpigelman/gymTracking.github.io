@@ -19,7 +19,7 @@
     </div>
     <div>
     	<%-- Form of login  --%>
-    	<form action="http://localhost:8080/WebGymTracking/GymTrackingController" method="post">
+    	<form action="/WebGymTracking/GymTrackingController" method="post">
         <br>
         <img class="mb-4" src="icon/iconLogin.svg" alt="" width="72" height="72">
         <h4 style="color:red; font-weight:bold;"><%if(request.getAttribute("message") != null)
