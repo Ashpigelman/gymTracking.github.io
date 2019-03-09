@@ -46,7 +46,7 @@
         		</div>
       		</li>
       		<li class="nav-item">
-        		<form action="http://localhost:8080/WebGymTracking/GymTrackingController" method="get">
+        		<form action="/WebGymTracking/GymTrackingController" method="get">
             	<input type="hidden" name="command" value="logout" >
             	<input class="btn btn-danger" type="submit" value="logout">
         		</form>
@@ -101,10 +101,10 @@
             	"</td><td>"+activity.getNumberOfReps()+
             	"</td><td>"+activity.getTrainingDay()+
             	"</td><td>" +
-            	"<form action='http://localhost:8080/WebGymTracking/GymTrackingController' method='get'><input type='hidden' name='command' value='sendToUpdate'><input type ='hidden' value='"+activity.getActivityId()+
+            	"<form action='/WebGymTracking/GymTrackingController' method='get'><input type='hidden' name='command' value='sendToUpdate'><input type ='hidden' value='"+activity.getActivityId()+
             	"' name='activityId'><input type ='submit' value ='update' class='btn btn-success'></form>"+
                 "</td><td>"+
-            	"<form action='http://localhost:8080/WebGymTracking/GymTrackingController' method='get'><input type='hidden' name='command' value='delete'><input type ='hidden' value='"+activity.getActivityId()+
+            	"<form action='/WebGymTracking/GymTrackingController' method='get'><input type='hidden' name='command' value='delete'><input type ='hidden' value='"+activity.getActivityId()+
             	"' name='activityId'><input type ='submit' value ='delete' class='btn btn-danger'></form>"+
             	"</td></tr><tbody>");
         		i++;
