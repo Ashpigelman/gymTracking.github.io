@@ -46,7 +46,7 @@
         		</div>
       		</li>
       		<li class="nav-item">
-        		<form action="http://localhost:8080/WebGymTracking/GymTrackingController" method="get">
+        		<form action="/WebGymTracking/GymTrackingController" method="get">
             	<input type="hidden" name="command" value="logout" >
             	<input class="btn btn-danger" type="submit" value="logout">
         		</form>
@@ -58,7 +58,7 @@
 <div class="container">
   	<h2>Please update your information:</h2>
   	<%-- User update form --%>
-  	<form action="http://localhost:8080/WebGymTracking/GymTrackingController" method="post">
+  	<form action="/WebGymTracking/GymTrackingController" method="post">
   	<%
   	int valueWeight = user.getWeight();//The weight of the user
   	int valueHeight = user.getHeight();//The height of the user
