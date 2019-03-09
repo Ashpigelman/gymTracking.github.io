@@ -8,8 +8,7 @@
   <script src="js/view/jquery/jquery-3.3.1.slim.min.js"></script>
   <script src="js/view/popper/popper.min.js"></script>
   <script src="js/view/bootstrap/bootstrap.min.js"></script>
-  <script type="text/javascript" src="js/sliderActive.js"></script>  
-  <title>Add Active</title>
+  <title>Add Activity</title>
 </head>
 
 <body>
@@ -63,7 +62,7 @@
 <p>Here you can add your activity, you must choose several sets and reps.</p>
 <h5 style="color:red; font-weight:bold;"><%if(request.getAttribute("message") != null)
 	out.write((String)request.getAttribute("message")); %></h5>
-<h4>add new Active:</h4>
+<h4>add new Activity:</h4>
 		<%-- Form of adding --%>
         <form action="http://localhost:8080/WebGymTracking/GymTrackingController" method="post">     
         	<div>
@@ -140,6 +139,36 @@
             </div>
 
       </form>
+      <script>
+      var sliderSets = document.getElementById("sliderSets");
+      var sliderReps = document.getElementById("sliderReps");
+      var inputSets = document.getElementById("inputSets");
+      var inputReps = document.getElementById("inputRets");
+
+      ///value updation from input to slider
+      //function input update to slider
+      function sliderSetsInput(){//input udate slider Sets
+      	sliderSets.value = inputSets.value;
+      }
+      function sliderRepsInput(){//input update slider Reps
+      	sliderReps.value = (inputReps.value);
+      }
+
+      //calling function on change of inputs to update in slider
+      inputSets.addEventListener("change",sliderSetsInput);
+      inputReps.addEventListener("change",sliderRepsInput);
+
+      ///value updation from slider to input
+      //functions to update from slider to inputs 
+      function inputSetsSliderSets(){//slider update inputs
+         inputSets.value = sliderSets.value;
+      }
+      function inputRepsSliderReps(){//slider update inputs
+         inputReps.value = sliderReps.value;
+      }
+      sliderSets.addEventListener("change",inputSetsSliderSets);
+      sliderReps.addEventListener("change",inputRepsSliderReps);
+      </script>
       
 </div>
 </body>
