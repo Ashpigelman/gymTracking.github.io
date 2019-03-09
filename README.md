@@ -34,7 +34,7 @@ Registration
 <h2> Activity list </h2>
 Activity list of user
 <br>
-![useractivity](https://user-images.githubusercontent.com/43930762/53994777-dee5f880-413b-11e9-8191-c36f66de7239.png)
+
 <br> 
 Activity list of amount of training by days
 <br> 
@@ -45,7 +45,7 @@ Graph of a table of amount of training by days
 <h2> Function on activity -  add active OR update activity</h2>
 Add activity
 <br> 
-![addActive](https://user-images.githubusercontent.com/43930762/54071710-3ccc2a80-4279-11e9-949c-9c6e7eb17c83.png)
+
 Update active
 <br> 
 ![userActivities](https://user-images.githubusercontent.com/43930762/54071709-3c339400-4279-11e9-89ba-a7deeada1367.png)
