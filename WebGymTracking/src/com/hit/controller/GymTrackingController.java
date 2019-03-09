@@ -224,23 +224,23 @@ public class GymTrackingController extends HttpServlet {
 				}
 			if((oldPassword == "") || (newPassword == "") || (repPassword == "")) {
 				request.setAttribute("message", "Your need to fill all the fields");
-				request.getRequestDispatcher("/updatePassword.jsp").forward(request, response);
+				request.getRequestDispatcher("/updateUser.jsp").forward(request, response);
 				}
 			else if(oldPassword.length()<6 || newPassword.length() <6) {
 				request.setAttribute("message","The Passwords less than 6 characters");
-				request.getRequestDispatcher("/updatePassword.jsp").forward(request, response);
+				request.getRequestDispatcher("/updateUser.jsp").forward(request, response);
 				}
 			else if (!(oldPassword.equals(newUser.getPassword()))) {
 				request.setAttribute("message", "Your old password is incorrect");
-				request.getRequestDispatcher("/updatePassword.jsp").forward(request, response);	
+				request.getRequestDispatcher("/updateUser.jsp").forward(request, response);	
 				}
 			else if(!(newPassword.equals(repPassword))) {
 				request.setAttribute("message", "Your password repeat dosent match to your new password");
-				request.getRequestDispatcher("/updatePassword.jsp").forward(request, response);
+				request.getRequestDispatcher("/updateUser.jsp").forward(request, response);
 				}
 			else if(newPassword.equals(newUser.getPassword())) {
 				request.setAttribute("message", "You entered your current password, please enter a different one");
-				request.getRequestDispatcher("/updatePassword.jsp").forward(request, response);
+				request.getRequestDispatcher("/updateUser.jsp").forward(request, response);
 				}
 			else { 
 				try {
