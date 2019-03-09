@@ -82,7 +82,7 @@
 	<button type="button" class="btn btn-outline-light text-dark" data-toggle="modal" data-target="#KickBack">Kick Back</button><br><br>
 	<button type="button" class="btn btn-outline-light text-dark" data-toggle="modal" data-target="#PullingElbowsInSittingWithWeights">Pulling elbows in sitting with weights</button><br><br>
 	<h4><em>Stomach</em></h4><br>
-	<button type="button" class="btn btn-outline-light text-dark" data-toggle="modal" data-target="#StaticStomach/Plank">Static stomach/Plank</button><br><br>
+	<button type="button" class="btn btn-outline-light text-dark" data-toggle="modal" data-target="#StaticStomachPlank">Static stomach/Plank</button><br><br>
 	<button type="button" class="btn btn-outline-light text-dark" data-toggle="modal" data-target="#Crunches">Crunches</button><br><br>
 	<h4><em>Legs</em></h4><br>
 	<button type="button" class="btn btn-outline-light text-dark" data-toggle="modal" data-target="#Deadlift">Deadlift</button><br><br>
@@ -375,11 +375,11 @@
   </div>
 </div>
 
-<div class="modal fade" id="StaticsStomach/Plank" tabindex="-1" role="dialog" aria-labelledby="StaticsStomach/Plank" aria-hidden="true">
+<div class="modal fade" id="StaticStomachPlank" tabindex="-1" role="dialog" aria-labelledby="StaticStomachPlank" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="StaticsStomach/Plank">Static stomach/Plank</h5>
+        <h5 class="modal-title" id="StaticStomachPlank">Static stomach/Plank</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
