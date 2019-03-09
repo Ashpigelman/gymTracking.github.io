@@ -44,7 +44,7 @@
         		</div>
       		</li>
       		<li class="nav-item">
-        		<form action="http://localhost:8080/WebGymTracking/GymTrackingController" method="get">
+        		<form action="/WebGymTracking/GymTrackingController" method="get">
             	<input type="hidden" name="command" value="logout" >
             	<input class="btn btn-danger" type="submit" value="logout">
         		</form>
@@ -64,7 +64,7 @@
 	out.write((String)request.getAttribute("message")); %></h5>
 <h4>add new Activity:</h4>
 		<%-- Form of adding --%>
-        <form action="http://localhost:8080/WebGymTracking/GymTrackingController" method="post">     
+        <form action="/WebGymTracking/GymTrackingController" method="post">     
         	<div>
         	<%-- Select type --%>
             <label for="mySelect">Select a new active from the list:</label>
