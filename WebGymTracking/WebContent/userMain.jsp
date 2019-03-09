@@ -44,7 +44,7 @@
         		</div>
       		</li>
       		<li class="nav-item">
-        		<form action="http://localhost:8080/WebGymTracking/GymTrackingController" method="get">
+        		<form action="/WebGymTracking/GymTrackingController" method="get">
             	<input type="hidden" name="command" value="logout" >
             	<input class="btn btn-danger" type="submit" value="logout">
         		</form>
@@ -63,7 +63,7 @@
 	<a href="addActive.jsp" class="btn btn-outline-primary btn-lg btn-block" role="button" aria-pressed="true">Add New Activity</a><br>
 	<a href="userActivities.jsp" class="btn btn-outline-info btn-lg btn-block" role="button" aria-pressed="true">My Activities Table</a><br>
 	<a href="BMICalculator.jsp" class="btn btn-outline-warning btn-lg btn-block" role="button" aria-pressed="true">BMI Calculator</a><br>
-	<form action="http://localhost:8080/WebGymTracking/GymTrackingController" method="get">
+	<form action="/WebGymTracking/GymTrackingController" method="get">
 		<input type="hidden" name="command" value="logout" >
         <input class="btn btn-outline-danger btn-lg btn-block" type="submit" value="logout">
     </form>
