@@ -45,7 +45,7 @@
         		</div>
       		</li>
       		<li class="nav-item">
-        		<form action="http://localhost:8080/WebGymTracking/GymTrackingController" method="get">
+        		<form action="/WebGymTracking/GymTrackingController" method="get">
             	<input type="hidden" name="command" value="logout" >
             	<input class="btn btn-danger" type="submit" value="logout">
         		</form>
@@ -58,7 +58,7 @@
 <div class="container">
 <h4>Please update your Password:</h4>
 	<%-- Password update form --%>
-  	<form action="http://localhost:8080/WebGymTracking/GymTrackingController" method="post">
+  	<form action="/WebGymTracking/GymTrackingController" method="post">
   	<h4 style="color:red; font-weight:bold;"><%if(request.getAttribute("message") != null)
             out.write((String)request.getAttribute("message")); %></h4>
 	  	<input type="hidden" name="command" value="updatePassword">
