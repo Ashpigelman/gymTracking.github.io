@@ -45,10 +45,10 @@ Graph of a table of amount of training by days
 <h2> Function on activity -  add active OR update activity</h2>
 Add activity
 <br> 
-![addactive](https://user-images.githubusercontent.com/43930762/53994876-1f457680-413c-11e9-941c-c000c672bfe6.png)
+![addActive](https://user-images.githubusercontent.com/43930762/54071710-3ccc2a80-4279-11e9-949c-9c6e7eb17c83.png)
 Update active
 <br> 
-![updateactive](https://user-images.githubusercontent.com/43930762/53994885-28364800-413c-11e9-9038-875599f56647.png)
+![userActivities](https://user-images.githubusercontent.com/43930762/54071709-3c339400-4279-11e9-89ba-a7deeada1367.png)
 <h2> BMI calculator </h2>
 BMI calculator
 <br> 
