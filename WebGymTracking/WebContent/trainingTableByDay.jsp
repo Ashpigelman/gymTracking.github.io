@@ -64,7 +64,7 @@
     <hr class="my-4">
     <h5 style="color:green; font-weight:bold;"><%if(request.getAttribute("message") != null)
             out.write((String)request.getAttribute("message")); %></h5>
-     <a class="btn btn-primary btn-lg" href="addActive.jsp" role="button">Add Active</a>     
+     <a class="btn btn-primary btn-lg" href="addActive.jsp" role="button">Add Activity</a>     
      <a class="btn btn-info btn-lg" href="userMain.jsp" role="button">Back to Main</a>  
      <br>  
      <a class="btn btn-outline-warning btn-lg" href="userActivities.jsp" role="button">Show my training table</a> 
