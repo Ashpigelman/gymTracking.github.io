@@ -25,7 +25,7 @@
 	</div>
 	<div>
 		<%-- Form of registration --%>
-  		<form action="http://localhost:8080/WebGymTracking/GymTrackingController" method="post">
+  		<form action="/WebGymTracking/GymTrackingController" method="post">
   		<h4 style="color:red; font-weight:bold;"><%if(request.getAttribute("message") != null)
             out.write((String)request.getAttribute("message")); %></h4>
 	  	<input type="hidden" name="command" value="registration">
