@@ -74,7 +74,7 @@
 	<button type="button" class="btn btn-outline-light text-dark" data-toggle="modal" data-target="#AShrugOfTheShouldersWithWeights">A shrug of the shoulders with weights</button><br><br>
 	<h4><em>Chest</em></h4><br>
 	<button type="button" class="btn btn-outline-light text-dark" data-toggle="modal" data-target="#BenchPress">Bench press</button><br><br>
-	<button type="button" class="btn btn-outline-light text-dark" data-toggle="modal" data-target="#BreastButterfly with weights">Breast butterfly with weights</button><br><br>
+	<button type="button" class="btn btn-outline-light text-dark" data-toggle="modal" data-target="#BreastButterflyWithWeights">Breast butterfly with weights</button><br><br>
 	<button type="button" class="btn btn-outline-light text-dark" data-toggle="modal" data-target="#Pushups">Pushups</button><br><br>
 	<h4><em>Hands</em></h4><br>
 	<button type="button" class="btn btn-outline-light text-dark" data-toggle="modal" data-target="#BendingTheElbowsWithStandingRod">Bending the elbows with standing rod</button><br><br>
