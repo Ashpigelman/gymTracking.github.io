@@ -4,8 +4,8 @@ Solution is based on a Hibernate framework using MySQL Data Source in Apache Tom
 designed using JQuery, AJAX, JavaScript, HTML, JSP, BOOTSTRAP and CSS.
 
 Here you can find a sumary of our project:<br>
-Web: https://www.youtube.com/watch?v=WRMBhrAfDK0<br>
-Mobile: https://www.youtube.com/watch?v=hHROKzOWZ5s
+Web: https://youtu.be/WRMBhrAfDK0<br>
+Mobile: https://youtu.be/hHROKzOWZ5s
 
 <h1> WHAT CAN WE DO IN THIS APP? </H1>
 Login.
